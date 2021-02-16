@@ -1,3 +1,8 @@
+# Problem
+
+ Due to security reasons the total maximum size of email attachments you can send in an email is 25MB, therefore, if you want to send a large number of images over email you have to send 2-3 images at a time.This application is designed to automate this procress by allowing a user to upload all the photos once. On the backend the application sends 2-3 images at a time saving the user time and frustration.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
